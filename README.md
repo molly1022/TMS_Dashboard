@@ -2,7 +2,7 @@
 
 A modern project management application built with Next.js, GraphQL, and Chakra UI. This application helps teams organize and track their projects with a beautiful and intuitive interface.
 
-
+![TMS-Dashboard](https://github.com/molly1022/TMS_Dashboard/blob/main/public/images/dashboard-preview.png)
 
 ## Features
 
